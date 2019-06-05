@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="MainWindow">
+    <file>clearhistory.png</file>
+    <file>filesave.png</file>
+    <file>editundo.png</file>
+    <file>editredo.png</file>
+    <file>fileopen.png</file>
+    <file>bar.bmp</file>
+    <file>QQ截图20140612201246.bmp</file>
+  </qresource>
+</RCC>
